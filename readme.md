@@ -44,5 +44,5 @@ The database is implemented in SQL and includes:
 ### Steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/ecommerce-database.git
-   cd ecommerce-database
+   git clone https://github.com/kiranxyz/database.git
+   cd database
